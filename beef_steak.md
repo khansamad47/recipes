@@ -26,7 +26,7 @@
 |Medium-Well|135°F (57°C)|150°F (66°C)|35 to 40 minutes|
 
 ## Step: Sear
-1. Put on cast-iron on high heat and let it get ripping hot add avocado oil
+1. Put on cast-iron on high heat and let it get ripping hot add avocado oil or any high smoke-point oil
 2. Add shallots 
 3. Put the steak and sear for 90 seconds each side
 4. Bring the heat all the way down and add butter and garlic cloves
