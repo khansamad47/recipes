@@ -33,3 +33,8 @@
 5. Wait for butter to start foaming then start basing 
 6. Add thyme and continue to base for 3-4 mins
 7. Rest the steak for 5 minutes and put all juices on top of it.
+
+
+## References
+[Video](https://www.youtube.com/watch?v=xDhHIptokb4&t=65s)
+[Theory](https://www.seriouseats.com/reverse-seared-steak-recipe)
