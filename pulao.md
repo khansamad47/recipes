@@ -1,5 +1,4 @@
 # Goat Pulao Recipe
-
 Shahlla aunty's goat pulao recipe.
 
 ## Pre-Cook Steps
@@ -10,7 +9,7 @@ Ingredients and Recipe for broth
 
 ### Ingredients
 1. Ginger 1 tbsp
-2. Galic 1 tbsp
+2. Garlic 1 tbsp
 3. Small Cardamom 15 
 4. Black Pepper 13
 5. Fennel 3 tbsp
@@ -60,8 +59,3 @@ Cook at low flame until meat is tender (approx 1 hour)
 8. Cook on high heat until it starts drying
 9. Cook on low flame once water starts drying
  
-
-
-
-
-

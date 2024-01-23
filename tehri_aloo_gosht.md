@@ -1,5 +1,4 @@
 # Tehari Beef and Allo
-https://www.youtube.com/watch?v=KVKz6Q1gAmo
 
 ## Ingredients
 * Oil 100ml 
@@ -51,3 +50,5 @@ Coriander leaves
 Mint leaves
 
 
+## References
+[Video](https://www.youtube.com/watch?v=KVKz6Q1gAmo)

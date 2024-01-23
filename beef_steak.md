@@ -1,8 +1,8 @@
 # Beef Steak
 
-## Ingrediants
+## Ingredients
 * Steaks
-* Corse salt
+* Coarse salt
 * Pepper
 * Butter
 * Garlic Cloves
@@ -28,7 +28,7 @@
 ## Step: Sear
 1. Put on cast-iron on high heat and let it get ripping hot add avocado oil or any high smoke-point oil
 2. Add shallots 
-3. Put the steak and sear for 90 seconds each side , press steak to ensure it is making full contant
+3. Put the steak and sear for 90 seconds each side , press steak to ensure it is making full contact
 4. Bring the heat all the way down and add butter and garlic cloves
 5. Wait for butter to start foaming then start basing 
 6. Add thyme and continue to base for 3-4 mins

@@ -1,9 +1,9 @@
-# Chicken Stoganoff
+# Chicken Stroganoff
 
 ## Ingredients
-* Boneless Chicken - thin bite-size cuts (like stirfry) 600g
+* Boneless Chicken - thin bite-size cuts 600g
 * Garlic Powder 1 tsp
-* Paprica 1/2 tsp
+* Paprika 1/2 tsp
 * Black Pepper 1/2 tsp
 * Salt 1/2 tsp
 
@@ -15,7 +15,7 @@
 * 2 tbsp all-purpose flour
 * Chicken Stock 1 cube in 2 cups of boiling water
 * Heavy whipping cream 1/2 - 3/4 cup
-* Woschestershire 1 tbsp
+* Worcestershire 1 tbsp
 * Sour Cream 1/4 cup
 
 ## Steps
@@ -26,9 +26,9 @@
 5. Add flour and mix for 1-2 mins
 6. Add chicken stalk and bring to simmer
 7. Add heavy whipping cream cook
-8. Add Worchestershire sauce and mix
+8. Add Worcestershire sauce and mix
 9. add black pepper
-10. Add gravy to sourcream to thin it down
+10. Add gravy to sour cream to thin it down
 11. add the mixture back to the pan and bring it to simmer while constantly stirring it
 12. Add salt or black pepper as needed
 

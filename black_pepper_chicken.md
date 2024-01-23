@@ -1,27 +1,24 @@
 # Black Pepper Chicken
 
 ## Ingredients
-
-### Sauce:
 * Soy sauce 3 tbs
 * Oyster sauce 2 tbs
-* Sirka (Vinegar) 1 tbs
-* Kali mirch (Black pepper) crushed 2 tsp
-* Safed mirch powder (White pepper powder) 1 tsp
-* Chicken boneless cubes 500 gms
+* Vinegar 1 tbsp
+* Black pepper (crushed) 2 tsp
+* White pepper powder 1 tsp
+* Chicken boneless cubes 500 grams
 * Corn flour 1 tbs
-* Lehsan powder (Garlic powder) ½ tsp
-* Oil 3-4 tbs
-* Pyaz (Onion) diced 1 medium
-* Red bell pepper diced 1 small
-* Shimla mirch (Capsicum) diced 1 medium
-* Lehsan (Garlic) crushed 1 tsp
-* Yakhni (Chicken stock) ¼ Cup
-* Hara pyaz (Green onion) chopped 2-3 tbs
-* Namak (Salt) to taste (if required) 
+* Garlic powder 1/2 tsp
+* Oil 3-4 tbsp
+* Onion (diced) 1 medium
+* Red bell pepper (diced) 1 small
+* Capsicum (diced) 1 medium
+* Garlic (crushed) 1 tsp
+* Chicken stock 1/4 Cup
+* Green onion (chopped) 2-3 tbs
+* Salt (to taste) (if required) 
 
-Directions:
-For Sauce:
+## Steps
 1. In bowl,add soy sauce,oyster sauce,vinegar,black pepper crushed,white pepper powder,mix well & set aside.
 2. In bowl,add chicken boneless cubes,corn flour,garlic powder,mix well and marinate for 15 minutes.
 3. In a wok,add oil and marinated chicken,cook until chicken is golden and set aside.

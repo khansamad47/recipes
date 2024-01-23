@@ -26,7 +26,7 @@
 * 2 Big Ilachi
 * 1 Star
 * 4 Cloves
-* 1 Cinmon Stick
+* 1 Cinnamon Stick
 * Salt
 
 ### Dressing
@@ -37,9 +37,9 @@
 ## Steps
 1. Heat the oil and ghee and add all onions to it. Fry until golden brown and then remove and dry half of the onions which will be used for garnish later
 2. In the remaining onions and oil add meat and bun for 5 minutes
-3. Add adrak/lessan paste, sliced lemons, green chillis, daniya, paudina, curry leaves, tomatoes, shan masala, daniya powder, (garam masala?) and bun for 5 mintues
+3. Add adrak/lessan paste, sliced lemons, green chilies, daniya, paudina, curry leaves, tomatoes, shan masala, daniya powder, (garam masala?) and bun for 5 minutes
 4. Add 1 cup water, and some salt 1 tbsp and cook under meat is tender (1 1/2 hour or 20-30 mins in cooker)
-5. Add potates and cook under soft *Optional* You can boil potatoes separately for 3-4 minutes with color, and then add them to your cooked salan
+5. Add potatoes and cook under soft *Optional* You can boil potatoes separately for 3-4 minutes with color, and then add them to your cooked salan
 6. When meat is ready add Immi and evaporate water to get thick gravy
 
 ### For Rice
