@@ -15,3 +15,4 @@ My personal recipe notes – a simple collection of Pakistani and other recipes 
 * [Steak](beef_steak.md) 
 * [Chicken Stroganoff](chicken_stroganoff.md)
 * [Black Pepper Chicken](black_pepper_chicken.md)
+* [Chicken Wings](chicken_wings.md)
