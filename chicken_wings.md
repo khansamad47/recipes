@@ -1,10 +1,11 @@
 # Ingrediants
 * Onion powder 1 tsp
 * Garlic powder 1 tsp
-* Ginger pownder 1 tsp
+* Ginger powder 1 tsp
 * Smoked Paprika 1 tsp
 * Cumin powder 1 tsp
 * Black Pepper 1 tsp
+* Red chilli powder 1 tsp
 * Salt
 
 ## Steps
