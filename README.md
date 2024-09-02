@@ -4,8 +4,9 @@ My personal recipe notes – a simple collection of Pakistani and other recipes 
 ## Pakistani
 * [Beef/Mutton Biryani - Shan Bombay Biryani](memon_mutton_biryani.md)
 * [Beef/Mutton Pulao](pulao.md)
-* [Karachi Beef Biryani - Shan Beef Biryani](karachi_beef_biryani_shan.md)
+* [Chicken Karhai](chicken_karhai.md)
 * [Daal](daal.md)
+* [Karachi Beef Biryani - Shan Beef Biryani](karachi_beef_biryani_shan.md)
 * [Rajma - Indian Style](rajma.md)
 * [Aalo Gosht](allo_gosht.md)
 * [Aalo Palak](aalo_palak.md)
