@@ -15,9 +15,11 @@
 3. Place the seasoned steaks on a tray in the refrigerator, ensuring they are on a grill to facilitate the drying process.
 
 ## Step: Bake
-1. Set oven to 250 F and put steaks directly on the grill until desired temperature is reached.
+1. Set oven to 250 F (225 F for a thinner steak e.g 1 inch) and put steaks directly on the grill until desired temperature is reached.
+2. If steaks are thinner (e.g 1 inch) then let the rest cool-down for some time before searing, otherwise they may over-cook.
 
 ### For 1 1/2–Inch Steaks in a 250°F (120°C) Oven
+
 |Doneness|TargetTemperature in the Oven|Final Target Temperature|Approximate Time in Oven|
 |-----|------|-----|-----|
 |Rare|105°F (40°C)|120°F (49°C)|20 to 25 minutes|
