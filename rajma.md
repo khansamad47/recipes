@@ -27,3 +27,6 @@
 5. Add the cooked rajma beans and add some water. Then add amchur powder. Close and cook for about 10 minutes 
 6. Add a teaspoon of sugar to balance out the flavors and finally add kasuri methi 
 7. Rajma masala is ready to be served hot with some zeera Rice or Ghee Rice
+
+## Reference
+* [Rajma Masala - HomeCookingShow](https://www.youtube.com/watch?v=8IOZ7-32Q3Y)
