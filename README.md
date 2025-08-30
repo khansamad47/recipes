@@ -17,3 +17,4 @@ My personal recipe notes – a simple collection of Pakistani and other recipes 
 * [Chicken Stroganoff](chicken_stroganoff.md)
 * [Black Pepper Chicken](black_pepper_chicken.md)
 * [Chicken Wings](chicken_wings.md)
+* [Dave's Hot Chicken](daves_hot_chicken.md)
