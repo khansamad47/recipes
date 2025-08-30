@@ -22,3 +22,8 @@
 
 ### Frying
 * All purpose flour
+
+### Other
+* buns
+* cheese
+
